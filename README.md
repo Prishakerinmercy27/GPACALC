@@ -41,8 +41,6 @@ GPACALCUITests/
 └── GPACALCUITests.swift          # UI tests for navigation
 ```
 
-## Getting Started
-
 ### Prerequisites
 
 - Xcode 15 or later
